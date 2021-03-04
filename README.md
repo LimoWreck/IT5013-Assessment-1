@@ -1,5 +1,5 @@
 # IT5013-Assessment-1
-Privacy Checklist
+Privacy Checklist Matthew O'Brien
 
 #•	Privacy Policy 1: Purpose of collection of personal information
 a) State clearly to the user and adhere to the purpose you are collecting user’s data.
