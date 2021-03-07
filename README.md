@@ -35,6 +35,6 @@ b) A confirmation will be sent to user once this has been done.
 
 •	Privacy Policy 12: Unique identifiers
 
-a) A unique identifier will not be used unless necessary to the use of the use’s data.
+a) A unique identifier will not be used unless necessary to the use of the user’s data.
 
 b) A multiple level authentication system will be put in place, if a unique identifier is used, to reduce the chance of identity theft.
